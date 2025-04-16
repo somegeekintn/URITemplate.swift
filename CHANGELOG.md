@@ -1,5 +1,11 @@
 # Changelog for URITemplate
 
+## 3.0.2 (2025-04-16)
+
+### Enhancements
+
+* Eliminate force unwrap / try. Conform to Sendable and modernize.
+
 ## 3.0.1 (2021-09-30)
 
 ### Enhancements
